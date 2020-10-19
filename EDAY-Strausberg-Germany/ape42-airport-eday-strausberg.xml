@@ -1,0 +1,8 @@
+<Project Version="2" Name="ape42-airport-eday-strausberg" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-eday-strausberg.xml</Package>
+	</Packages>
+</Project>
+
