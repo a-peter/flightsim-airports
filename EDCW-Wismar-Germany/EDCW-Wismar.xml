@@ -1,0 +1,8 @@
+<Project Version="2" Name="EDCW-Wismar" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-edcw-wismar.xml</Package>
+	</Packages>
+</Project>
+
