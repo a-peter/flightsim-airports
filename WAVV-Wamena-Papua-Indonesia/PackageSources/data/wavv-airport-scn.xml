@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="Papua" country="Indonesia" city="Wamena" name="Wamena" ident="WAVV" lat="-4.09701305440850" lon="138.95228674541420" alt="1654.18976856488734" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="-4.09651710428402" lon="138.95201732650901" alt="1651.54346998315305" heading="152.60000610351563" length="2174.26318359375000" width="45.00000000000000" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="15" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="TRUE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="-4.08826318710781" lon="138.94775857533716" alt="1651.66362644359469" heading="152.60000610351563"/>
+			<RunwayStart end="SECONDARY" lat="-4.10481412947488" lon="138.95629842407126" alt="1651.51918680500239" heading="332.60000610351563"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{ABAF1B82-62CE-42D0-A79E-AA0B5AB368D4}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="-4.10015107107996" lon="138.95368590984475"/>
+				<Vertex lat="-4.10023382278745" lon="138.95368254921701"/>
+				<Vertex lat="-4.10030610122603" lon="138.95367343758593"/>
+				<Vertex lat="-4.10034790215945" lon="138.95365781291272"/>
+				<Vertex lat="-4.10039465829771" lon="138.95362221236800"/>
+				<Vertex lat="-4.10041263879334" lon="138.95358868691935"/>
+				<Vertex lat="-4.10042489071010" lon="138.95354371667145"/>
+				<Vertex lat="-4.10041851542155" lon="138.95349718787401"/>
+				<Vertex lat="-4.10029002236852" lon="138.95310518230528"/>
+				<Vertex lat="-4.10027199170619" lon="138.95308056860307"/>
+				<Vertex lat="-4.10024885326440" lon="138.95306737022068"/>
+				<Vertex lat="-4.10015452778321" lon="138.95301436914420"/>
+				<Vertex lat="-4.10048232783570" lon="138.95239090740719"/>
+				<Vertex lat="-4.10115856727579" lon="138.95270431313133"/>
+				<Vertex lat="-4.10094478172526" lon="138.95313002667544"/>
+				<Vertex lat="-4.10287296272109" lon="138.95410558726590"/>
+				<Vertex lat="-4.10262525815986" lon="138.95427601713743"/>
+				<Vertex lat="-4.10104052055476" lon="138.95342481840592"/>
+				<Vertex lat="-4.10092176914784" lon="138.95341931804657"/>
+				<Vertex lat="-4.10084880150684" lon="138.95343678117291"/>
+				<Vertex lat="-4.10077839204908" lon="138.95345432969486"/>
+				<Vertex lat="-4.10074089552573" lon="138.95347205490094"/>
+				<Vertex lat="-4.10071558902404" lon="138.95349700104731"/>
+				<Vertex lat="-4.10069747420676" lon="138.95352557929908"/>
+				<Vertex lat="-4.10068656183195" lon="138.95356635699187"/>
+				<Vertex lat="-4.10069408648197" lon="138.95361163580597"/>
+				<Vertex lat="-4.10079097668615" lon="138.95390858368845"/>
+				<Vertex lat="-4.10080687755992" lon="138.95394374079365"/>
+				<Vertex lat="-4.10082980222936" lon="138.95397736424337"/>
+				<Vertex lat="-4.10086771999205" lon="138.95402951625545"/>
+				<Vertex lat="-4.10088699255975" lon="138.95406517158577"/>
+			</Apron>
+			<Apron surface="{ABAF1B82-62CE-42D0-A79E-AA0B5AB368D4}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="-4.09852585147028" lon="138.95213042138624"/>
+				<Vertex lat="-4.09857422204253" lon="138.95232532828649"/>
+				<Vertex lat="-4.09856303508220" lon="138.95238328980534"/>
+				<Vertex lat="-4.09851848784115" lon="138.95242730354309"/>
+				<Vertex lat="-4.09798492405859" lon="138.95257927854723"/>
+				<Vertex lat="-4.09846218115411" lon="138.95283729411906"/>
+				<Vertex lat="-4.09841355055266" lon="138.95274286709255"/>
+				<Vertex lat="-4.09841365046766" lon="138.95268044337965"/>
+				<Vertex lat="-4.09842766917859" lon="138.95262916982560"/>
+				<Vertex lat="-4.09847647418068" lon="138.95259744465801"/>
+				<Vertex lat="-4.09909541185962" lon="138.95243870963060"/>
+			</Apron>
+			<Apron surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.483474" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="-4.09806873802286" lon="138.95112591690324"/>
+				<Vertex lat="-4.09773834080501" lon="138.95175261650451"/>
+				<Vertex lat="-4.10016627805772" lon="138.95302212844172"/>
+				<Vertex lat="-4.10049667625221" lon="138.95239542747106"/>
+			</Apron>
+			<Apron surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.453786" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="-4.09464369588750" lon="138.94988931606966"/>
+				<Vertex lat="-4.09445221062058" lon="138.95028030323022"/>
+				<Vertex lat="-4.09571906569327" lon="138.95089564676366"/>
+				<Vertex lat="-4.09591055125524" lon="138.95050465913454"/>
+			</Apron>
+			<Apron surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.453786" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="-4.09415413671897" lon="138.94921308493772"/>
+				<Vertex lat="-4.09379284799826" lon="138.94995078702428"/>
+				<Vertex lat="-4.09449530825631" lon="138.95029198952440"/>
+				<Vertex lat="-4.09485659728564" lon="138.94955428694777"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

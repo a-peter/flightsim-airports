@@ -1,0 +1,8 @@
+<Project Version="2" Name="WAVV-Wamena" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-wavv-wamena.xml</Package>
+	</Packages>
+</Project>
+
