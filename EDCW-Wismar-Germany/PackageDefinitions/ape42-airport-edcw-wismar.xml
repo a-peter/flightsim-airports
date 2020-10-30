@@ -1,4 +1,4 @@
-<AssetPackage Name="ape42-airport-edcw-wismar" Version="0.1.0">
+<AssetPackage Name="ape42-airport-edcw-wismar" Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Wismar Airport</Title>
@@ -23,7 +23,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
+			<AssetDir>PackageSources\data\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>

@@ -2,6 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
+		<Package>PackageDefinitions\edcw-models.xml</Package>
 		<Package>PackageDefinitions\ape42-airport-edcw-wismar.xml</Package>
 	</Packages>
 </Project>

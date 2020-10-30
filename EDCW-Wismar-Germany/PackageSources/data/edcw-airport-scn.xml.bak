@@ -63,6 +63,28 @@
 	<SceneryObject lat="53.91597534263933" lon="11.50046844534041" alt="0.00000000000000" pitch="0.000526" bank="-0.000526" heading="-105.700866" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{0AEB8B3A-A883-48C2-A789-375E7DA1299E}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: hangar-->
+	<SceneryObject lat="53.91544816518189" lon="11.49987702804445" alt="0.00000000000000" pitch="0.000854" bank="-0.000854" heading="161.213337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{302A8084-FF66-4197-1184-6DED910A2A12}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: hangar-->
+	<SceneryObject lat="53.91550269826915" lon="11.50014225910393" alt="0.00000000000000" pitch="0.000854" bank="-0.000854" heading="161.213337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{302A8084-FF66-4197-1184-6DED910A2A12}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: hangar-->
+	<SceneryObject lat="53.91555275260932" lon="11.50039606646800" alt="0.00000000000000" pitch="0.000854" bank="-0.000854" heading="161.213337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{302A8084-FF66-4197-1184-6DED910A2A12}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: hangar-->
+	<SceneryObject lat="53.91560396023852" lon="11.50065093451146" alt="0.00000000000000" pitch="0.000854" bank="-0.000854" heading="161.213337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{302A8084-FF66-4197-1184-6DED910A2A12}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: hangar-logo-->
+	<SceneryObject lat="53.91565582185130" lon="11.50090688995818" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="161.409938" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{302A8084-FF66-4197-1184-6DED910A2A13}" scale="1.200000"/>
+	</SceneryObject>
+	<Rectangle width="98.129471" falloff="500.000000" surface="{46BFB3BD-CE68-418E-8112-FEBA17428ACE}" priority="0" latitude="53.91596658634118" longitude="11.50018745581584" altitude="9.70138663612306" latitude2="53.91548850858906" longitude2="11.50043805886361" altitude2="9.70089276414365"/>
+	<ExclusionRectangle latitudeMinimum="53.91531188247713" latitudeMaximum="53.91603723421643" longitudeMinimum="11.49957729492692" longitudeMaximum="11.50120921489575" excludeAllObjects="TRUE"/>
 	<Airport region="Mecklenburg-Vorpommern" country="Germany" city="Wismar" name="Wismar" ident="EDCW" lat="53.91469423955899" lon="11.50111148816287" alt="12.97279137000442" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
 		<TaxiwayPoint index="0" type="NORMAL" orientation="FORWARD" lat="53.91417643954691" lon="11.49680066720587"/>
 		<TaxiwayPoint index="1" type="NORMAL" orientation="FORWARD" lat="53.91513490232151" lon="11.50560067738028"/>
@@ -96,7 +118,7 @@
 			<RunwayStart end="PRIMARY" lat="53.91417704986457" lon="11.49683282926573" alt="13.65575820021331" heading="79.59999847412109"/>
 			<RunwayStart end="SECONDARY" lat="53.91512662227480" lon="11.50557982009695" alt="13.66094165667892" heading="259.60000610351563"/>
 		</Runway>
-		<Tower lat="53.91594509217322" lon="11.50388189692724" alt="11.35097013037577">
+		<Tower lat="53.91594509217322" lon="11.50388189692724" alt="11.17481888414821">
 			<!--SceneryObject name: Luggages_Pack01-->
 			<SceneryObject lat="53.91594509217322" lon="11.50388189692724" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<LibraryObject name="{A7AADDFA-8A3C-425A-B10B-55BCE3A0405C}" scale="1.000000"/>
@@ -104,9 +126,7 @@
 		</Tower>
 		<Aprons>
 			<Apron surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="FALSE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
-				<Vertex lat="53.91539023609052" lon="11.49966469002552"/>
-				<Vertex lat="53.91565653090282" lon="11.50121771153975"/>
-				<Vertex lat="53.91611249229554" lon="11.50098055987281"/>
+				<Vertex lat="53.91582584365879" lon="11.49949018499065"/>
 				<Vertex lat="53.91630005355002" lon="11.50190138628681"/>
 				<Vertex lat="53.91582581788359" lon="11.50216677067749"/>
 				<Vertex lat="53.91591495930096" lon="11.50260509971141"/>
