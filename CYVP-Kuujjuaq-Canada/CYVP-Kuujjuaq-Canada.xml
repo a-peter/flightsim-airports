@@ -1,0 +1,8 @@
+<Project Version="2" Name="CYVP-Kuujjuaq-Canada" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-cyvp-kuujjuaq.xml</Package>
+	</Packages>
+</Project>
+
