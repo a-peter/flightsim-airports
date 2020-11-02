@@ -1,7 +1,7 @@
 <AssetPackage Name="ape42-airport-cyvp-kuujjuaq" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title/>
+		<Title>Kuujjuaq Airport</Title>
 		<Manufacturer/>
 		<Creator/>
 	</ItemSettings>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\ape42-airport-cyvp-kuujjuaq\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\ape42-airport-cyvp-kuujjuaq</OutputDir>
+			<AssetDir>PackageDefinitions\ape42-airport-cyvp-kuujjuaq\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-cyvp-kuujjuaq\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="ape42-airport-cyvp-kuujjuaq">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
