@@ -1,0 +1,8 @@
+<Project Version="2" Name="EDEM-Mosenberg-Germany" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-edem-mosenberg.xml</Package>
+	</Packages>
+</Project>
+
