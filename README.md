@@ -8,9 +8,10 @@ using economic addons like
 
 - [Fly The World](http://www.ftw-sim.de/)
 - [FSEconomy](https://www.fseconomy.net/)
+- [NeoFly](https://www.neofly.net/)
 
 Hence, the airports provided by me won't contain more than the runways, some
-taxiways, maybe parking areas and a tower with VFR frequencies.
+taxiways, maybe parking areas and a tower with VFR frequencies or UNICOM.
 
 ## If you want more ...
 
