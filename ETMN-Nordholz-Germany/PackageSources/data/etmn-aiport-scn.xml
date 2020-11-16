@@ -630,7 +630,7 @@
 		<Com frequency="131.25" type="TOWER" name="NORDHOLZ TOWER"/>
 		<Com frequency="123.3" type="APPROACH" name="NORDHOLZ APPROACH"/>
 		<Com frequency="129.85" type="APPROACH" name="NORDHOLZ APPROACH"/>
-		<Ils lat="53.764622" lon="8.633633" alt="60F" heading="257" frequency="111.75" magvar="-2" ident="IL00" width="5.0" name="INOW">
+		<Ils lat="53.764622" lon="8.633633" alt="60F" heading="257" frequency="111.75" magvar="-2.2" ident="IL00" width="5.0" name="INOW">
 			<GlideSlope lat="53.768267" lon="8.673066" alt="60F" pitch="3" range="18.0N"/>
 		</Ils>
 	</Airport>
