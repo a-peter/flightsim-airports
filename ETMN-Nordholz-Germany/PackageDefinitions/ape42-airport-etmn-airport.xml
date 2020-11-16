@@ -1,4 +1,4 @@
-<AssetPackage Name="ape42-airport-etmn-airport" Version="0.1.0">
+<AssetPackage Name="ape42-airport-etmn-airport" Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\ape42-airport-etmn-airport\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\ape42-airport-etmn-airport</OutputDir>
+			<AssetDir>PackageDefinitions\ape42-airport-etmn-airport\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-etmn-airport\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="ape42-airport-etmn-airport">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
