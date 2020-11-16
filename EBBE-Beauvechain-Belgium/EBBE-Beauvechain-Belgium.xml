@@ -1,7 +1,8 @@
-<Project Version="2" Name="EDEM-Mosenberg-Germany" FolderName="Packages">
+<Project Version="2" Name="EBBE-Beauvechain-Belgium" FolderName="Packages">
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\ape42-airport-ebbe-beaubechain.xml</Package>
+		<Package>PackageDefinitions\ape42-airport-ebbe-beauvechain.xml</Package>
 	</Packages>
 </Project>
+

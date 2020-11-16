@@ -1,4 +1,4 @@
-<AssetPackage Name="ape42-airport-ebbe-beaubechain" Version="0.1.0">
+<AssetPackage Name="ape42-airport-ebbe-beauvechain" Version="0.3.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\ape42-airport-ebbe-beaubechain\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\ape42-airport-ebbe-beaubechain</OutputDir>
+			<AssetDir>PackageDefinitions\ape42-airport-ebbe-beauvechain\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-ebbe-beauvechain\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="ape42-airport-ebbe-beaubechain">
+		<AssetGroup Name="ape42-airport-ebbe-beauvechain">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
