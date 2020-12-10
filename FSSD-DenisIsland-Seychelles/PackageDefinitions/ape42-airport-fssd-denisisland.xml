@@ -1,0 +1,31 @@
+<AssetPackage Name="ape42-airport-fssd-denisisland" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Denis Island Airport</Title>
+		<Manufacturer>ape42</Manufacturer>
+		<Creator>ape42</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\ape42-airport-fssd-denisisland\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-fssd-denisisland</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ape42-airport-fssd-denisisland">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Data</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

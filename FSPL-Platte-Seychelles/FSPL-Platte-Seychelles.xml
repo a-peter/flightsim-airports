@@ -1,0 +1,8 @@
+<Project Version="2" Name="FSPL-Platte-Seychelles" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-fspl-platte.xml</Package>
+	</Packages>
+</Project>
+

@@ -1,0 +1,8 @@
+<Project Version="2" Name="FSSB-BirdIsland-Seychelles" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-fssb-birdisland.xml</Package>
+	</Packages>
+</Project>
+

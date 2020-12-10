@@ -1,0 +1,31 @@
+<AssetPackage Name="ape42-airport-fspp-praslin" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Praslin Island Airport</Title>
+		<Manufacturer>Ape42</Manufacturer>
+		<Creator>Ape42</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\ape42-airport-fspp-praslin\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-fspp-praslin\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ape42-airport-fspp-praslin">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
