@@ -1,0 +1,39 @@
+<AssetPackage Name="ape42-airport-fsal-alphonse" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Alphonse Airport</Title>
+		<Manufacturer>ape42</Manufacturer>
+		<Creator>ape42</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\ape42-airport-fsal-alphonse\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-fsal-alphonse</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ape42-airport-fsal-alphonse">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fsal-service">
+			<Type>Service</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\AirportServices\fsal</AssetDir>
+			<OutputDir>AirportServices\fsal</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

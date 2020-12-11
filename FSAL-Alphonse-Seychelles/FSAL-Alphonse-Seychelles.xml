@@ -1,0 +1,8 @@
+<Project Version="2" Name="FSAL-Alphonse-Seychelles" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-fsal-alphonse.xml</Package>
+	</Packages>
+</Project>
+
