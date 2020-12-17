@@ -1,0 +1,8 @@
+<Project Version="2" Name="EDBN-Trollenhagen-Germany" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-edbn-trollenhagen.xml</Package>
+	</Packages>
+</Project>
+
