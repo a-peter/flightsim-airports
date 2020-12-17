@@ -1,7 +1,7 @@
-<AssetPackage Name="ape42-airport-fspl-platte" Version="0.2.0">
+<AssetPackage Name="ape42-airport-fssr-remire" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Platte Airfield</Title>
+		<Title>Remire Island Airport</Title>
 		<Manufacturer>ape42</Manufacturer>
 		<Creator>ape42</Creator>
 	</ItemSettings>
@@ -15,24 +15,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\ape42-airport-fspl-platte\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\ape42-airport-fspl-platte\</OutputDir>
+			<AssetDir>PackageDefinitions\ape42-airport-fssr-remire\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-fssr-remire</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="ape42-airport-fspl-platte">
+		<AssetGroup Name="ape42-airport-fssr-remire">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\Data\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="fspl-service">
+		<AssetGroup Name="fssr-service">
 			<Type>Service</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\AirportServices\fspl</AssetDir>
-			<OutputDir>AirportServices\fspl</OutputDir>
+			<AssetDir>PackageSources\AirportServices\fssr</AssetDir>
+			<OutputDir>AirportServices\fssr</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

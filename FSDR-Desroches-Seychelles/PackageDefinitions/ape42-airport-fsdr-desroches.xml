@@ -1,7 +1,7 @@
-<AssetPackage Name="ape42-airport-fspl-platte" Version="0.2.0">
+<AssetPackage Name="ape42-airport-fsdr-desroches" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Platte Airfield</Title>
+		<Title>Desroches Airport</Title>
 		<Manufacturer>ape42</Manufacturer>
 		<Creator>ape42</Creator>
 	</ItemSettings>
@@ -15,24 +15,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\ape42-airport-fspl-platte\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\ape42-airport-fspl-platte\</OutputDir>
+			<AssetDir>PackageDefinitions\ape42-airport-fsdr-desroches\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-fsdr-desroches</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="ape42-airport-fspl-platte">
+		<AssetGroup Name="ape42-airport-fsdr-desroches">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\Data\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="fspl-service">
+		<AssetGroup Name="fsdr-services">
 			<Type>Service</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\AirportServices\fspl</AssetDir>
-			<OutputDir>AirportServices\fspl</OutputDir>
+			<AssetDir>PackageSources\AirportServices\fsdr</AssetDir>
+			<OutputDir>AirportServices\fsdr</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

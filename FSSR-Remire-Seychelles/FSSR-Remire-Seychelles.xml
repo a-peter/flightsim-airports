@@ -1,0 +1,8 @@
+<Project Version="2" Name="FSSR-Remire-Seychelles" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-fssr-remire.xml</Package>
+	</Packages>
+</Project>
+

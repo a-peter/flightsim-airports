@@ -1,4 +1,4 @@
-<AssetPackage Name="ape42-airport-fssb-birdisland" Version="0.1.0">
+<AssetPackage Name="ape42-airport-fssb-birdisland" Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Bird Island Airport</Title>
@@ -15,16 +15,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\ape42-airport-fssb-birdisland\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\ape42-airport-fssb-birdisland</OutputDir>
+			<AssetDir>PackageDefinitions\ape42-airport-fssb-birdisland\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\ape42-airport-fssb-birdisland\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="ape42-airport-fssb-birdisland">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\Data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\Data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fssb-service">
+			<Type>Service</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\AirportServices\fssb</AssetDir>
+			<OutputDir>AirportServices\fssb</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

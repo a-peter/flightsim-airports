@@ -1,0 +1,20 @@
+<SimBase.Document Type="ServiceFile">
+	<Service.ParkingSpaceServices>
+		<ParkingSpace name ="RAMP SMALL">
+			<ParkingTypes>
+				<ParkingEntry ParkingType="RAMP_GA_SMALL"/>
+				<ParkingEntry ParkingType="RAMP_GA"/>
+			</ParkingTypes>
+			<IdleWorkers>
+			</IdleWorkers>
+			<Services>
+			</Services>
+			<SleepingActivities>
+			</SleepingActivities>
+		</ParkingSpace>
+	</Service.ParkingSpaceServices>
+	<Service.AirportServices>
+		<Services>
+		</Services>
+	</Service.AirportServices>
+</SimBase.Document>

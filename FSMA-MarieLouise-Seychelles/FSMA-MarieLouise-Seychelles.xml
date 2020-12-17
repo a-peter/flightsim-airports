@@ -1,0 +1,8 @@
+<Project Version="2" Name="FSMA-MarieLouise-Seychelles" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ape42-airport-fsma-marielouise.xml</Package>
+	</Packages>
+</Project>
+
